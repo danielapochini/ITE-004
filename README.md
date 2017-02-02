@@ -1,5 +1,5 @@
 # ITE-004
-Códigos desenvolvidos para a matéria de "Padrões de Projetos" da Fatec Rubens Lara.
+Projetos desenvolvidos para a matéria de "Padrões de Projetos" da Fatec Rubens Lara.
 
 ## Ementa  
 * Design Patterns 
@@ -13,3 +13,10 @@ Códigos desenvolvidos para a matéria de "Padrões de Projetos" da Fatec Rubens
     * Visitor
 * Orientação a aspectos
 * Topicos especiais 
+
+
+## Conteúdo
+
+* __[Projetos - Design Patterns](designpatterns)__
+* __[Exercícios Complementares](aulas)__
+
