@@ -18,5 +18,5 @@ Projetos desenvolvidos para a matéria de "Padrões de Projetos" da Fatec Rubens
 ## Conteúdo
 
 * __[Projetos - Design Patterns](designpatterns)__
-* __[Exercícios Complementares](aulas)__
+* __[Exercícios Complementares](exercicioscomplementares)__
 
